@@ -13,6 +13,8 @@ promises = [promise1, promise2, promise2]
 
 Example usage
 ```js
+import PromiseCount from 'promise-count'
+
 async () => {
   const promises = [promise1, promise2, promise2]
 
