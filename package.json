@@ -1,11 +1,12 @@
 {
   "name": "promise-count",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
     "test": "jest",
-    "build": "webpack"
+    "build": "webpack",
+    "prepare": "npm run build"
   },
   "author": "",
   "license": "ISC",

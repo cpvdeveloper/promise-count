@@ -23,4 +23,4 @@ const PromiseCount = async promises => {
   ))).then(() => results);
 }
 
-module.exports = PromiseCount;
+export default PromiseCount;
